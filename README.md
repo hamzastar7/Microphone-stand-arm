@@ -45,3 +45,25 @@ pip install opencv-python
 git clone https://github.com/hamzastar7/Microphone-stand-arm.git
 cd Microphone-stand-arm
 python setup.py install
+
+
+## Usage
+Explain how to use your project. Provide examples and usage scenarios. Include any configuration files or settings that users need to be aware of.
+```shell
+# Example usage commands
+python main.py
+
+
+
+## Contributing
+If you'd like to contribute to this project, please follow these guidelines:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes.
+Test your changes thoroughly.
+Create a pull request with a clear description of your changes.
+
+
+## License
+This project is licensed under the GPL3
