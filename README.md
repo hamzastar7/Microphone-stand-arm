@@ -1,6 +1,5 @@
 # Face-Tracking Microphone Stand Arm
 ## Overview
-
 The Face-Tracking Microphone Stand Arm is a project that aims to create a real-time system capable of tracking a user's face and adjusting the position of a microphone stand to ensure the microphone is always near the user's mouth and have ability to speak freely and not afraid to move when he speaks.
 ## Table of Contents
 - [Features](#features)
@@ -10,10 +9,7 @@ The Face-Tracking Microphone Stand Arm is a project that aims to create a real-t
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-  
 ## Features
-
 - Real-time face detection and tracking.
 - Automated control of the microphone stand arm based on detected face position.
 - Adjustable parameters for customization.
@@ -36,25 +32,18 @@ The Face-Tracking Microphone Stand Arm is a project that aims to create a real-t
 - (Add any additional software dependencies here)
 
 ## Installation
-
 Provide instructions on how to install the necessary software components and set up the hardware. Include any configuration steps or special considerations.
-
 ```shell
-# Example installation commands or steps
 pip install opencv-python
 git clone https://github.com/hamzastar7/Microphone-stand-arm.git
 cd Microphone-stand-arm
 python setup.py install
-
-
+```
 ## Usage
 Explain how to use your project. Provide examples and usage scenarios. Include any configuration files or settings that users need to be aware of.
 ```shell
-# Example usage commands
 python main.py
-
-
-
+```
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
